@@ -2,4 +2,4 @@
 ---
 
 
-### Git Github Practical
+### Git, Github Practical
